@@ -1,0 +1,41 @@
+table td {
+    padding: 20px;
+    border: 1px solid black;
+}
+
+th {
+    padding: 20px;
+    border: 1px solid black; 
+}
+
+/* 
+body {
+    text-align: center;
+    display: inline-block;
+}
+
+div {
+    display: inline-block;
+} 
+
+button {
+    display: inline-block;
+    padding: 10px 20px;
+} 
+
+table {
+    display: block;
+    margin-top: 20px;
+    border: 100%;
+    
+}
+
+th {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+} */
